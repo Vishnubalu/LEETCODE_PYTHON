@@ -1,2 +1,2 @@
-# VCUBE_PYTHON
-Python solutions for VCUBE
+# LeetCode
+Python solutions for LeetCode

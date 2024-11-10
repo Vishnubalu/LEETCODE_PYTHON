@@ -63,6 +63,5 @@ def longestCommonPrefix(strs: List[str]) -> str:
 #                     final_resutl = prefix
 #                 prefix = ""
 #     return final_resutl
-                
-                
+
 print(longestCommonPrefix(["ab", "a"]))
